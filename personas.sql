@@ -1,0 +1,7 @@
+CREATE TABLE IF NOT EXISTS developers(
+    id SERIAL PRIMARY KEY NOT NULL,
+    name VARCHAR(45) NOT NULL,
+    age INTEGER NOT NULL,
+    languages VARCHAR(70)
+);
+

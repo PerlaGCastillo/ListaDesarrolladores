@@ -1,6 +1,4 @@
-Flask CRUD w' Js and PostgreSQL > http://prrrgodinez.pythonanywhere.com/
-
-
+Flask CRUD w' Js and PostgreSQL 
 
 w LocalConfig 
 git clone  https://github.com/PerlaGCastillo/ListaDesarrolladores
@@ -28,3 +26,7 @@ python app.py or python3 app.py
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/PerlaGCastillo/ListaDesarrolladores/blob/main/assets/responsive.png">
 </picture>
 
+(http://prrrgodinez.pythonanywhere.com
+can't configure sshtunnel - so postgresql DB doesnt work!
+ssh: connect to host ssh.pythonanywhere.com port 22: Connection refused, 
+...stil trying!)

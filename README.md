@@ -1,4 +1,11 @@
-Flask CRUD w' Js and PostgreSQL 
+Flask CRUD w' Js and PostgreSQL > http://prrrgodinez.pythonanywhere.com/
+
+
+
+w LocalConfig 
+git clone  https://github.com/PerlaGCastillo/ListaDesarrolladores
+cd $_ or cd ListaDesarrolladores
+
 
 pip install -r requirements.txt
 

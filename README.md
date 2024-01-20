@@ -13,7 +13,12 @@ source /venv/bin/activate
 python app.py or python3 app.py 
 
 
+<span>https://github.com/PerlaGCastillo/ListaDesarrolladores/blob/main/assets/tabla.png</span>
 
-![](../Desktop/Screenshot 2024-01-19 at 9.39.12 p.m..png)
 
-![](../Desktop/Screenshot 2024-01-19 at 9.51.52 p.m..png)![](../Desktop/Screenshot 2024-01-19 at 9.52.02 p.m..png)![](../Desktop/Screenshot 2024-01-19 at 9.49.56 p.m..png)
+<span>https://github.com/PerlaGCastillo/ListaDesarrolladores/blob/main/assets/editarSinSortData.png</span>
+
+
+<span>https://github.com/PerlaGCastillo/ListaDesarrolladores/blob/main/assets/Ipadresponsive.png</span>
+
+<span>https://github.com/PerlaGCastillo/ListaDesarrolladores/blob/main/assets/responsive.png</span>

@@ -7,7 +7,7 @@ from psycopg2 import connect, extras
 load_dotenv()
 app = Flask(__name__)
 
-url = environ.get('DB_URL')
+url = os.environ.get('DB_URL')
 
 def get_connection():
     conn = connect(url=url)
